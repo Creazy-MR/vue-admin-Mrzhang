@@ -1,5 +1,5 @@
 <template>
-    
+    <!--顾客管理  -->
     <div>
         <el-button  type="success"  size="small" @click="toAddHandler" >
             添加
